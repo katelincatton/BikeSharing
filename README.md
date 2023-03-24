@@ -33,4 +33,14 @@ This heat graph analyzes the number of bike rides by User Type, by Day, and by G
 ![VIZ 7](https://user-images.githubusercontent.com/119131202/227396057-69d45801-577a-4246-8638-415858f0f84b.PNG)
 ---
 ## Summary
-After performing anylsis on the NYC Bike Data, 
+After performing anylsis on the NYC Bike Data, we can conclude the following:
+1. Majority of bikers have a trip duration from 0 to 30 minutes, for all Genders.
+2. Most of the bikers are Subscribers.
+3. Male bikers are more common tha Female bikers in NYC.
+4. The most popular time to bike for all Genders and User Types is from 5-7pm on Thursdays.
+5. The most popular time for Female bikers is Thursday at 8am and 5-7pm.
+6. The most popular time for Male bikers is Thursday at 8am and 5-7pm, with the addition of weekday mornings from 5-9am and weekday afternoons from 5-8pm.
+
+---
+Data Analyis Performed by Katelin Catton
+3/23/23
