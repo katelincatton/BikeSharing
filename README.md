@@ -1,4 +1,4 @@
-# BikeSharing
+# NYC Bike Rides 2019
 Module 15 - Tableau
 ## The Data - Overview
 With the help of Tableau, Pandas, and Data Visualization skills,; We hope to determine the number of bikes rides in New York during by Day, Hour, Minutes, Gender, and User Type (Customer or Subscriber). The data analysis we will conduct will include the following: Changing Trip Duration variable to datetime in Pandas, checkout times for users, checkout times by gender, trips by weekday per hour, trips by gender (weekday per hour), and user trips by gender by weekday. In addition, some visuals may also have filter options available to dive deeper in to the NYC bikers data.
