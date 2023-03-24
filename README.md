@@ -1,11 +1,13 @@
 # NYC Bike Rides 2019
 Module 15 - Tableau
+---
+Please find Tableau Story from the link below:
+---
+[link to dashboard]([Katelin's Tableau Story](https://public.tableau.com/shared/ZSQW587YJ?:display_count=n&:origin=viz_share_link))
 ## The Data - Overview
 With the help of Tableau, Pandas, and Data Visualization skills,; We hope to determine the number of bikes rides in New York during by Day, Hour, Minutes, Gender, and User Type (Customer or Subscriber). The data analysis we will conduct will include the following: Changing Trip Duration variable to datetime in Pandas, checkout times for users, checkout times by gender, trips by weekday per hour, trips by gender (weekday per hour), and user trips by gender by weekday. In addition, some visuals may also have filter options available to dive deeper in to the NYC bikers data.
 ---
-Please find Tableau Story from the Link Below:
----
-[link to dashboard]([Katelin's Tableau Story](https://public.tableau.com/shared/ZSQW587YJ?:display_count=n&:origin=viz_share_link))
+
 ## Results
 This graph counts the overall number of bike rides by the Hour in New York City, for all users and all genders. The most common trip duration for a biker is 5 minutes, with a total of 147,683 rides. Majority of all bikers have a trip duration of 1 to 13 minutes.
 ---
